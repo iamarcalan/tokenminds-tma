@@ -30,8 +30,9 @@ function App() {
           >
             here
           </a>{" "}
-          to learn more.
+          to learn more about ArCWiz.
         </p>
+        <p>Lets Rock with Web3 and have fun...</p>
       </div>
     </>
   );
